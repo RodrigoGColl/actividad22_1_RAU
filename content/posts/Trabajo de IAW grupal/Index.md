@@ -1,3 +1,10 @@
+
++++
+title = 'La Revolución Bolchevique'
+date = 2024-11-29T09:44:45+01:00
+draft = false
++++
+
 # La Revolución Bolchevique
 
 La **Revolución Bolchevique**, también conocida como la **Revolución de Octubre**, fue un evento fundamental en la historia del siglo XX que marcó el inicio de la instauración del comunismo en Rusia y la creación de la **Unión de Repúblicas Socialistas Soviéticas (URSS)**. Tuvo lugar en octubre de 1917 según el calendario juliano (noviembre según el gregoriano) y fue liderada por el **Partido Bolchevique**, encabezado por **Vladímir Lenin**.
