@@ -1,0 +1,16 @@
+baseURL = "https://RodrigoGColl.github.io/"
+languageCode = "es"
+title = "Mi blog Hugo"
+theme = "ananke"
+
+[menu]
+[[menu.main]]
+identifier = "page"
+name = "Primera pagina"
+url = "/posts/"
+[[menu.main]]
+identifier = 'posts'
+name = 'Publicaciones'
+url = '/posts/'
+[params]
+social = true

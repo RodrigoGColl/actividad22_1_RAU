@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mi blog Hugo</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Mi blog Hugo</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 29 Nov 2024 09:47:10 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PostRodrigo2</title>
+      <link>http://localhost:1313/posts/posthollowknight/</link>
+      <pubDate>Fri, 29 Nov 2024 09:47:10 +0100</pubDate>
+      <guid>http://localhost:1313/posts/posthollowknight/</guid>
+      <description>&lt;h2 id=&#34;introducción&#34;&gt;Introducción&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;img/hollow-knight2.png&#34; alt=&#34;imagen&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Hollow Knight&lt;/strong&gt;, desarrollado por Team Cherry, es un videojuego indie lanzado en 2017 que ha cautivado a jugadores de todo el mundo. Con su deslumbrante estilo artístico, mecánicas desafiantes y un mundo profundo y melancólico, este título es un referente del género &lt;em&gt;metroidvania&lt;/em&gt;.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;historia&#34;&gt;Historia&lt;/h2&gt;&#xA;&lt;p&gt;La aventura se desarrolla en &lt;strong&gt;Hallownest&lt;/strong&gt;, un reino subterráneo en ruinas lleno de secretos y peligros. Encarnas a un enigmático caballero que se adentra en sus profundidades, enfrentándose a enemigos y desentrañando una historia cargada de misterio y tragedia.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>PostRodrigo</title>
+      <link>http://localhost:1313/posts/postbloodborne/</link>
+      <pubDate>Fri, 29 Nov 2024 09:44:45 +0100</pubDate>
+      <guid>http://localhost:1313/posts/postbloodborne/</guid>
+      <description>&lt;h2 id=&#34;introducción&#34;&gt;Introducción&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;./bloodborne2.png&#34; alt=&#34;imagen&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Lanzado en 2015 por FromSoftware, &lt;strong&gt;Bloodborne&lt;/strong&gt; es un videojuego exclusivo para PlayStation que ha dejado una huella imborrable en el género de acción y horror. Con su ambientación gótica, combates desafiantes y narrativa enigmática, este título se ha convertido en un clásico (god).&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;historia&#34;&gt;Historia&lt;/h2&gt;&#xA;&lt;p&gt;La trama de Bloodborne se desarrolla en &lt;strong&gt;Yharnam&lt;/strong&gt;, una ciudad oscura plagada por una enfermedad que transforma a sus habitantes en bestias monstruosas. Como jugador, asumes el rol de un cazador que busca la verdad detrás de esta maldición, enfrentándose a horrores indescriptibles y descubriendo secretos ocultos.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
